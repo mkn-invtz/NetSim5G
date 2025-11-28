@@ -1,4 +1,4 @@
-# NetSim5G
+# NetSim5G - Virtual 5G Network Testbed
  
  End to End Simulated 5G Network/Test Bed using Open5GS Core Network and srsRAN Project with Simulated RF Environment using ZMQ Libraries
 
