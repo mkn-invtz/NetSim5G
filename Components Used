@@ -1,0 +1,9 @@
+
+
+Open5GS — 5G Core (AMF, SMF, UPF)
+
+srsRAN — gNB + UE stack
+
+ZMQ — Virtual RF channel
+
+Linux, Docker, Kubernetes (optional)
